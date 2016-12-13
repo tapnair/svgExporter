@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"dd4039c7-47ed-4065-bc67-b528d06d9aaf",
+	"author":	"PAtrick Rainsberry",
+	"description":	{
+		"":	"SVG Exporter for Fusion 360"
+	},
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
